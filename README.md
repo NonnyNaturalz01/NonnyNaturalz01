@@ -12,7 +12,7 @@ I am a Data Scientist with a strong foundation in customer behavior analytics an
 - **Languages:** Python, SQL, R, C++, Java
 - **ML/AI:** Regression, NLP, Computer Vision, LLMs, Recommendation Systems
 - **Tools:** Pandas, Scikit-Learn, Tableau, Azure ML Studio, Git
-- **Certifications:** AI-300 MLOPS Engineer Associate | DP-700 Fabric Data Engineer | AWS AI Practitioner (in progress)
+- **Certifications:** AI-300 MLOPS Engineer Associate | DP-700 Fabric Data Engineer | AWS AI Practitioner 
 
 **Let's Connect:**
 [Portfolio Website](https://nonnynaturalz01.github.io/NonsindisoMkhize.github.io/) · [LinkedIn](https://www.linkedin.com/in/nonsindiso-mkhize-58a7b6185/) · [Email](mailto:nonsindisomkhize8@gmail.com)
